@@ -3,7 +3,7 @@ published: true
 ---
 
 
-# This is my first post!
+# Linux Fundamental
 
 ## A New Post
 
